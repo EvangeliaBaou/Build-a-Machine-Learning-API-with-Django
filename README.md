@@ -19,7 +19,7 @@ The inputs for Machine Learning (ML) models integrated with a Django REST Framew
     "Property_Area":"Urban"
   } 
   
-## The task : Bank Loan Clasification:
+## The task : Bank Loan Clasification
 The goal is to predict whether a loan application will be approved or not based on the provided information. The size of the dataset can vary, but it's typically around 5,000 samples. The exact number of features can differ, but it usually falls within the range of 10 to 20. Here are some common features you might encounter: 
 - Customer Demographics: Age, experience (years in job), family size.
 - Financial Information: Annual income, loan amount, existing debts, credit card usage.
